@@ -15,7 +15,7 @@ This Weather App is made in Java using Java swing component and Openweathermap A
   
 ## Steps if you are using VSCode 📍
 
-- Open the file through VSCode 
+- Open the folder through VSCode 
 - Make sure you have installed all the **extensions** that are importand for using **JAVA**
 - Under the Java Project 
 
